@@ -1,16 +1,41 @@
-## Hi there 👋
+# Salve, sou o Júlio! 👋
 
-<!--
-**baptista-julio/baptista-julio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 👣 Atuação: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, atuo como **Assistente de T.I. II** na **Elétrica Bahiana** (Salvador, BA), onde sou responsável por desenvolver soluções de **automação** e **implantação de Business Intelligence (B.I.)**. No meu dia a dia, uso ferramentas como:
+
+- **Python**
+- **SQL Server**
+- **SSIS**
+- **Oracle**
+- **Power BI**
+- **PowerShell**
+
+Ainda estou explorando diferentes áreas da tecnologia e estou dividido entre **dados e automação** ou **desenvolvimento (web ou desktop)**. Essa fase de descoberta tem sido empolgante, e estou aberto a novos desafios!
+
+<br>
+
+## 💻 O que estou estudando:
+
+- **Engenharia de Software** (Faculdade)
+- **Inglês**
+- **Python**
+- **Banco de Dados**
+- **Business Intelligence** 
+
+Além disso, busco constantemente expandir meus conhecimentos em novas tecnologias e linguagens de programação, como por exemplo **JavaScript**, visando aumentar minha versatilidade, expandir meus horizontes e aprofundar meus conhecimentos técnicos para agregar ao meu trabalho.
+
+<br>
+
+## 🚀 Projetos que estou desenvolvendo:
+
+- Em constante aprendizado e aplicando meu conhecimento em projetos internos da empresa.
+- Sempre aberto a novas oportunidades para contribuir com código de qualidade e melhorar processos!
+
+<br>
+
+---
+
+Se você tem alguma dica, sugestão ou quer trocar uma ideia sobre qualquer um desses assuntos, fique à vontade para me chamar! 👍
