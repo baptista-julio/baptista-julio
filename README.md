@@ -1,41 +1,117 @@
-# Salve, sou o Júlio! 👋
+# Salve! Eu sou o Júlio Baptista 👋
 
-<br>
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Assistente+de+T.I.+II;Especialista+em+Automação+%26+B.I.;Apaixonado+por+Dados+e+Tecnologia;Sempre+aprendendo+algo+novo!)
 
-## 👣 Atuação: 
-
-Atualmente, atuo como **Assistente de T.I. II** na **Elétrica Bahiana** (Salvador, BA), onde sou responsável por desenvolver soluções de **automação** e **implantação de Business Intelligence (B.I.)**. No meu dia a dia, uso ferramentas como:
-
-- **Python**
-- **SQL Server**
-- **SSIS**
-- **Oracle**
-- **Power BI**
-- **PowerShell**
-
-Ainda estou explorando diferentes áreas da tecnologia e estou dividido entre **dados e automação** ou **desenvolvimento (web ou desktop)**. Essa fase de descoberta tem sido empolgante, e estou aberto a novos desafios!
-
-<br>
-
-## 💻 O que estou estudando:
-
-- **Engenharia de Software** (Faculdade)
-- **Inglês**
-- **Python**
-- **Banco de Dados**
-- **Business Intelligence** 
-
-Além disso, busco constantemente expandir meus conhecimentos em novas tecnologias e linguagens de programação, como por exemplo **JavaScript**, visando aumentar minha versatilidade, expandir meus horizontes e aprofundar meus conhecimentos técnicos para agregar ao meu trabalho.
-
-<br>
-
-## 🚀 Projetos que estou desenvolvendo:
-
-- Em constante aprendizado e aplicando meu conhecimento em projetos internos da empresa.
-- Sempre aberto a novas oportunidades para contribuir com código de qualidade e melhorar processos!
-
-<br>
+</div>
 
 ---
 
-Se você tem alguma dica, sugestão ou quer trocar uma ideia sobre qualquer um desses assuntos, fique à vontade para me chamar! 👍
+## 🚀 Sobre Mim
+
+Sou **Assistente de T.I. II** na **Elétrica Bahiana** em Salvador, BA, onde desenvolvo soluções de **automação** e **Business Intelligence**. Estou em uma jornada empolgante de descoberta na tecnologia, explorando diferentes áreas e sempre em busca de novos desafios!
+
+- 🎓 Estudante de **Engenharia de Software**
+- 💼 Especialista em **Automação** e **Business Intelligence**
+- 🌱 Explorando **Desenvolvimento Web** e **Desktop**
+- 🏠 Localizado em **Salvador, Bahia**
+- 💬 Sempre aberto para trocar ideias sobre tecnologia!
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+### 💻 Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🗄️ Bancos de Dados
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 📊 Business Intelligence & Analytics
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+```python
+estudos_atuais = {
+    "faculdade": "Engenharia de Software",
+    "idiomas": ["Inglês"],
+    "tecnologias": ["Python", "JavaScript", "Banco de Dados"],
+    "especialização": ["Business Intelligence", "Automação"],
+    "foco": "Expandir conhecimentos e aumentar versatilidade"
+}
+```
+
+---
+
+## 💼 Experiência Profissional
+
+### 🏢 Elétrica Bahiana - Salvador, BA
+**Assistente de T.I. II** 
+
+- 🔧 Desenvolvimento de soluções de **automação** de processos
+- 📈 Implantação e manutenção de **Business Intelligence (B.I.)**
+- 🐍 Desenvolvimento em **Python** para automação
+- 🗃️ Gestão e otimização de bancos **SQL Server** e **Oracle**
+- 📊 Criação de dashboards e relatórios em **Power BI**
+- ⚙️ Scripts em **PowerShell** para administração de sistemas
+
+---
+
+## 🎯 Objetivos e Interesses
+
+- 🤔 **Explorando**: Decidindo entre especialização em **Dados & Automação** ou **Desenvolvimento Web/Desktop**
+- 🚀 **Objetivo**: Contribuir com código de qualidade e melhorar processos
+- 📖 **Sempre aprendendo**: Novas tecnologias e linguagens de programação
+- 🌟 **Missão**: Agregar valor através da tecnologia
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  
+  ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=baptista-julio&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptista-julio&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Vamos Conectar!
+
+Estou sempre aberto para:
+- 💡 **Trocar ideias** sobre tecnologia e inovação
+- 🚀 **Colaborar** em projetos interessantes  
+- 📚 **Compartilhar conhecimento** e experiências
+- 🌟 **Networking** com outros profissionais da área
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-reis-baptista)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliogrbpt@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptista-julio)
+
+</div>
+
+---
+
+<div align="center">
+  
+  **"A tecnologia é melhor quando aproxima as pessoas."** 
+  
+  *Obrigado por visitar meu perfil! 😊*
+
+</div>
