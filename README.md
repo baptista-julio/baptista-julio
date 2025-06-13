@@ -1,10 +1,6 @@
 # Salve! Eu sou o Júlio Baptista 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Assistente+de+T.I.+II;Especialista+em+Automação+%26+B.I.;Apaixonado+por+Dados+e+Tecnologia;Sempre+aprendendo+algo+novo!)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1500&color=00CF20&center=true&vCenter=true&width=600&lines=Assistente+de+T.I.+II;Experi%C3%AAncia+com+Automa%C3%A7%C3%A3o+%26+B.I.;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
 
 ---
 
