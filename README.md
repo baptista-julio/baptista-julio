@@ -1,47 +1,39 @@
-# Salve! Eu sou o Júlio Baptista 👋
-
-
-
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1500&color=00CF20&center=true&vCenter=true&width=600&lines=Assistente+de+T.I.+II;Experi%C3%AAncia+com+Automa%C3%A7%C3%A3o+%26+B.I.;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1500&color=00A0E1&center=true&vCenter=true&width=600&height=100&lines=Salve!+Sou+o+J%C3%BAlio+%F0%9F%91%8B;Assistente+de+T.I.+II;Experi%C3%AAncia+com+Automa%C3%A7%C3%A3o+%26+B.I.;Sempre+aprendendo+algo+novo!)
 
 </div>
 
----
 
 ## 🚀 Sobre Mim
 
 Sou **Assistente de T.I. II** na **Elétrica Bahiana** em Salvador, BA, onde desenvolvo soluções de **automação** e **Business Intelligence**. Estou em uma jornada empolgante de descoberta na tecnologia, explorando diferentes áreas e sempre em busca de novos desafios!
 
 - 🎓 Estudante de **Engenharia de Software**
-- 💼 Especialista em **Automação** e **Business Intelligence**
+- 💼 Experiência com **Automação** e **Business Intelligence**
 - 🌱 Explorando **Desenvolvimento Web** e **Desktop**
 - 🏠 Localizado em **Salvador, Bahia**
 - 💬 Sempre aberto para trocar ideias sobre tecnologia!
 
----
+<br>
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
-### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### 🗄️ Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 📊 Business Intelligence & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 </div>
 
----
+<br>
+
 
 ## 📚 Atualmente Estudando
 
@@ -55,7 +47,8 @@ estudos_atuais = {
 }
 ```
 
----
+<br>
+
 
 ## 💼 Experiência Profissional
 
@@ -69,7 +62,8 @@ estudos_atuais = {
 - 📊 Criação de dashboards e relatórios em **Power BI**
 - ⚙️ Scripts em **PowerShell** para administração de sistemas
 
----
+<br>
+
 
 ## 🎯 Objetivos e Interesses
 
@@ -78,7 +72,8 @@ estudos_atuais = {
 - 📖 **Sempre aprendendo**: Novas tecnologias e linguagens de programação
 - 🌟 **Missão**: Agregar valor através da tecnologia
 
----
+<br>
+
 
 ## 📊 Estatísticas GitHub
 
@@ -90,7 +85,8 @@ estudos_atuais = {
 
 </div>
 
----
+<br>
+
 
 ## 🤝 Vamos Conectar!
 
@@ -108,7 +104,7 @@ Estou sempre aberto para:
 
 </div>
 
----
+<br>
 
 <div align="center">
   
