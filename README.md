@@ -96,20 +96,24 @@ Estou sempre aberto para:
 - 📚 **Compartilhar conhecimento** e experiências
 - 🌟 **Networking** com outros profissionais da área
 
+<br>
+
+## 📞 Contatos
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-reis-baptista)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliogrbpt@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptista-julio)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-reis-baptista)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliogrbpt@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptista-julio)
 
 </div>
 
 <br>
 
-<div align="center">
-  
-  **"A tecnologia é melhor quando aproxima as pessoas."** 
-  
-  *Obrigado por visitar meu perfil! 😊*
+---
 
+<div align="center">
+  Se você tem alguma dica, sugestão ou quer trocar uma ideia sobre qualquer um desses assuntos, fique à vontade para me chamar! 👍
 </div>
+
+
