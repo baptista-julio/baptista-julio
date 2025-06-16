@@ -60,7 +60,7 @@ estudos_atuais = {
 - 🐍 Desenvolvimento em **Python** para automação
 - 🗃️ Gestão e otimização de bancos **SQL Server** e **Oracle**
 - 📊 Criação de dashboards e relatórios em **Power BI**
-- ⚙️ Scripts em **PowerShell** para administração de sistemas
+- ⚙️ Scripts em **PowerShell** para automação em ambiente Windows
 
 <br>
 
