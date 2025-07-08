@@ -35,7 +35,7 @@ Sou **Assistente de T.I. II** na **Elétrica Bahiana** em Salvador, BA, onde des
 <br>
 
 
-## 📚 Atualmente Estudando
+## 📚 Estudando Atualmente
 
 ```python
 estudos_atuais = {
