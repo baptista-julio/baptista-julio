@@ -41,8 +41,8 @@ Sou **Assistente de T.I. II** na **Elétrica Bahiana** em Salvador, BA, onde des
 estudos_atuais = {
     "faculdade": "Engenharia de Software",
     "idiomas": ["Inglês"],
-    "tecnologias": ["Python", "JavaScript", "Banco de Dados"],
-    "especialização": ["Business Intelligence", "Automação"],
+    "tecnologias": ["Python", "Banco de Dados"],
+    "principais_experiencias": ["Business Intelligence", "Automação"],
     "foco": "Expandir conhecimentos e aumentar versatilidade"
 }
 ```
@@ -53,7 +53,8 @@ estudos_atuais = {
 ## 💼 Experiência Profissional
 
 ### 🏢 Elétrica Bahiana - Salvador, BA
-**Assistente de T.I. II** 
+**Auxiliar de T.I.** - De Março/2023 até Março/2025
+**Assistente de T.I. II** - De Março/2025 até o presente momento
 
 - 🔧 Desenvolvimento de soluções de **automação** de processos
 - 📈 Implantação e manutenção de **Business Intelligence (B.I.)**
@@ -67,13 +68,15 @@ estudos_atuais = {
 
 ## 🎯 Objetivos e Interesses
 
-- 🤔 **Explorando**: Decidindo entre especialização em **Dados & Automação** ou **Desenvolvimento Web/Desktop**
+- 🤔 **Explorando**: **Engenharia de Dados**, **IA**
 - 🚀 **Objetivo**: Contribuir com código de qualidade e melhorar processos
 - 📖 **Sempre aprendendo**: Novas tecnologias e linguagens de programação
 - 🌟 **Missão**: Agregar valor através da tecnologia
 
 <br>
 
+
+<!--
 
 ## 📊 Estatísticas GitHub
 
@@ -86,6 +89,8 @@ estudos_atuais = {
 </div>
 
 <br>
+
+-->
 
 
 ## 🤝 Vamos Conectar!
