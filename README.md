@@ -1,123 +1,41 @@
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=28&duration=2500&pause=1500&color=00A0E1&center=true&vCenter=true&width=600&height=100&lines=Salve!+Sou+o+J%C3%BAlio+%F0%9F%91%8B;Assistente+de+T.I.+II;Experi%C3%AAncia+com+Automa%C3%A7%C3%A3o+%26+B.I.;Sempre+aprendendo+algo+novo!)
-
-</div>
-
-
 ## 🚀 Sobre Mim
 
-Sou **Assistente de T.I. II** na **Elétrica Bahiana** em Salvador, BA, onde desenvolvo soluções de **automação** e **Business Intelligence**. Estou em uma jornada empolgante de descoberta na tecnologia, explorando diferentes áreas e sempre em busca de novos desafios!
+Sou um profissional generalista, com experiência em desenvolvimento web e desktop, automação de processos, visão computacional e Business Intelligence (BI). Sou observador, adaptável e gosto de trocar ideias com outros profissionais (seja da área ou não). Curto explorar tecnologias e trabalhar em projetos que me desafiem. Meu ponto fraco é esquecer (com facilidade) o que faço.
 
-- 🎓 Estudante de **Engenharia de Software**
-- 💼 Experiência com **Automação** e **Business Intelligence**
-- 🌱 Explorando **Desenvolvimento Web** e **Desktop**
-- 🏠 Localizado em **Salvador, Bahia**
-- 💬 Sempre aberto para trocar ideias sobre tecnologia!
+- **Formação Acadêmica:** Formado em **Engenharia de Software** — Universidade Estácio de Sá
+- **Interesses:** Jogos, animes, desenvolvimento de software, automação de processos repetitivos, e análise de dados.
 
 <br>
-
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-</div>
-
-<br>
-
-
-## 📚 Estudando Atualmente
-
-```python
-estudos_atuais = {
-    "faculdade": "Engenharia de Software",
-    "idiomas": ["Inglês"],
-    "tecnologias": ["Python", "Banco de Dados"],
-    "principais_experiencias": ["Business Intelligence", "Automação"],
-    "foco": "Expandir conhecimentos e aumentar versatilidade"
-}
-```
-
-<br>
-
 
 ## 💼 Experiência Profissional
 
-### 🏢 Elétrica Bahiana - Salvador, BA
-**Auxiliar de T.I.** - De Março/2023 até Março/2025
-**Assistente de T.I. II** - De Março/2025 até o presente momento
+### Elétrica Bahiana — Salvador, BA
 
-- 🔧 Desenvolvimento de soluções de **automação** de processos
-- 📈 Implantação e manutenção de **Business Intelligence (B.I.)**
-- 🐍 Desenvolvimento em **Python** para automação
-- 🗃️ Gestão e otimização de bancos **SQL Server** e **Oracle**
-- 📊 Criação de dashboards e relatórios em **Power BI**
-- ⚙️ Scripts em **PowerShell** para automação em ambiente Windows
+1. **Auxiliar de T.I.** — Março/2023 a Março/2025
+2. **Assistente de T.I. II** — Março/2025 a Setembro/2025
+3. **Analista de T.I.** — Outubro/2025 até presente momento
 
-<br>
-
-
-## 🎯 Objetivos e Interesses
-
-- 🤔 **Explorando**: **Engenharia de Dados**, **IA**
-- 🚀 **Objetivo**: Contribuir com código de qualidade e melhorar processos
-- 📖 **Sempre aprendendo**: Novas tecnologias e linguagens de programação
-- 🌟 **Missão**: Agregar valor através da tecnologia
+**Atuei com:**
+- Desenvolvimento de aplicativos web e desktop.
+- Automação de processos com Python e PowerShell.
+- Desenvolvimento e manutenção de soluções de BI.
+- Consultas SQL e otimização de bancos de dados.
+- Criação de painéis e relatórios no Power BI.
 
 <br>
 
+## 🗂️ Casos/Projetos
 
-<!--
+Já desenvolvi soluções para a **Elétrica Bahiana**, a **ABREME** e um **cartório de registro de imóveis**.
 
-## 📊 Estatísticas GitHub
+- Na **Elétrica Bahiana:** fui o responsável pela reestruturação do sistema de BI. Iniciei com o planejamento do que eu utilizaria como ferramenta para construção do fluxo de ETL respeitando as regras de negócio da empresa. Após isso, busquei entender o contexto presente naquele respectivo cenário visando a origem e destino dos dados e a exploração da arquitetura legada. Depois que entendi o contexto, iniciei o processo de tratamento dos dados diretamente no SQL (sem depender das ferramentas/nós do SSIS). Estruturei o banco de dados analítico (ambiente OLAP). Automatizei as cargas de tabelas com o SSIS. Criei as apresentações/análises/painéis no Power BI.
 
-<div align="center">
-  
-  ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=baptista-julio&show_icons=true&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptista-julio&layout=compact&theme=tokyonight&hide_border=true)
+- Na **ABREME:** desenvolvi um aplicativo que tratava dados de planilha, montava um dashboard para análise e exportava apresentações em PDF automaticamente.
 
-</div>
+- No **cartório:** criei dois aplicativos. Um consistia em extração (utilizando I.A.) e importação de registros imobiliários em lote. E o outro seria validar e importar dados, de diversas fontes (PDF ou imagem), em uma planilha específica.
 
 <br>
 
--->
+## 🤝 Vamos Conectar?
 
-
-## 🤝 Vamos Conectar!
-
-Estou sempre aberto para:
-- 💡 **Trocar ideias** sobre tecnologia e inovação
-- 🚀 **Colaborar** em projetos interessantes  
-- 📚 **Compartilhar conhecimento** e experiências
-- 🌟 **Networking** com outros profissionais da área
-
-<br>
-
-## 📞 Contatos
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-reis-baptista)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baptista-julio)
-  
-</div>
-
-<br>
-
----
-
-<div align="center">
-  Se você tem alguma dica, sugestão ou quer trocar uma ideia sobre qualquer um desses assuntos, fique à vontade para me chamar! 👍
-</div>
-
-
+Estou aberto a trocar ideias, compartilhar experiências e colaborar em projetos de tecnologia.
